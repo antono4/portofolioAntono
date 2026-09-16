@@ -1,2 +1,26 @@
-Last updated: 2026-09-16 08:42:22 WIB
-Last updated: 2026-09-16 08:44:17 WIB
+# portofolioAntono
+
+
+
+## 📋 Overview
+
+This repository contains **8 files** and is built with the following technologies:
+
+HTML
+
+## 🚀 Quick Start
+
+## ✨ Features
+
+- 📝 Auto-generated documentation
+
+## 🛠️ Technologies
+
+HTML
+
+## 📄 License
+
+MIT License
+
+---
+*Last updated: 2026-09-16 08:46:25 WIB*
